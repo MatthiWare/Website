@@ -3,7 +3,7 @@
         <title>All Posts - MatthiWare</title>
         <link>https://matthiware.be/posts/</link>
         <description>All Posts | MatthiWare</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://matthiware.be/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 12 Jul 2020 15:01:21 &#43;0200</lastBuildDate><atom:link href="https://matthiware.be/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Theme Documentation - Basics</title>
     <link>https://matthiware.be/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
@@ -45,5 +45,12 @@
     <author>Author</author>
     <guid>https://matthiware.be/emoji-support/</guid>
     <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
+</item><item>
+    <title>Test</title>
+    <link>https://matthiware.be/test/</link>
+    <pubDate>Sun, 12 Jul 2020 15:01:21 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://matthiware.be/test/</guid>
+    <description><![CDATA[bla]]></description>
 </item></channel>
 </rss>

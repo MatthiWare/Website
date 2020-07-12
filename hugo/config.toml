@@ -263,7 +263,7 @@ publishDir = "../docs/"
   [params.footer]
     enable = true
     # Custom content (HTML format is supported)
-    custom = ''
+    custom = 'Made with <i style="color:red" class="fa fa-heart" aria-hidden="true"></i> in Belgium'
     # whether to show Hugo and theme info
     hugo = true
     # whether to show copyright info
@@ -407,7 +407,7 @@ publishDir = "../docs/"
       # Valine comment config (https://github.com/xCss/Valine)
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = true
+        enable = false
         appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
         appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
         placeholder = ""
@@ -504,10 +504,10 @@ publishDir = "../docs/"
 
   # Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "UA-40677164-2"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics

@@ -1,12 +1,12 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-subtitle: ""
-date: {{ .Date }}
-lastmod: {{ .Date }}
-draft: true
-author: ""
+title: "Test"
+subtitle: "bla"
+date: 2020-07-12T15:01:21+02:00
+lastmod: 2020-07-12T15:01:21+02:00
+draft: false
+author: "Matthias Beerens"
 authorLink: ""
-description: ""
+description: "bla"
 
 tags: []
 categories: []
