@@ -571,7 +571,7 @@ publishDir = "../docs/"
 
 # Author config
 [author]
-  name = "xxxx"
+  name = "MatthiWare"
   email = ""
   link = ""
 
