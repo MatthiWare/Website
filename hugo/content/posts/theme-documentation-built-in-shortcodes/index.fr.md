@@ -1,18 +1,18 @@
 ---
 weight: 3
-title: "Thème Documentation - Built-in Shortcodes"
+title: 'Thème Documentation - Built-in Shortcodes'
 date: 2020-03-04T16:29:59+08:00
 lastmod: 2020-03-04T16:29:59+08:00
 draft: false
-author: "Dillon"
-authorLink: "https://dillonzq.com"
+author: 'Matthias Beerens'
+authorLink: 'https://matthiware.be'
 description: "Hugo fournit plusieurs shortcodes intégrés pour la commodité de l'auteur et pour garder votre contenu de démarque propre."
 resources:
-- name: "featured"
-  src: "featured-image.png"
+  - name: 'featured'
+    src: 'featured-image.png'
 
-tags: ["shortcodes"]
-categories: ["documentation"]
+tags: ['shortcodes']
+categories: ['documentation']
 
 lightgallery: true
 ---
@@ -53,10 +53,10 @@ The HTML looks like this:
 
 ```html
 <figure>
-    <img src="/images/lighthouse.jpg"/>
-    <figcaption>
-        <h4>Lighthouse (figure)</h4>
-    </figcaption>
+  <img src="/images/lighthouse.jpg" />
+  <figcaption>
+    <h4>Lighthouse (figure)</h4>
+  </figcaption>
 </figure>
 ```
 
@@ -88,6 +88,7 @@ Example `highlight` input:
 
 ```markdown
 {{</* highlight html */>}}
+
 <section id="main">
     <div>
         <h1 id="title">{{ .Title }}</h1>
@@ -102,6 +103,7 @@ Example `highlight` input:
 The rendered output looks like this:
 
 {{< highlight html >}}
+
 <section id="main">
     <div>
         <h1 id="title">{{ .Title }}</h1>
